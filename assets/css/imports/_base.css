@@ -120,7 +120,7 @@ section.skills ul li span {
 }
 
 section.skills ul li span:hover {
-  width: 93% !important;
+  width: 100% !important;
 }
 
 footer {
