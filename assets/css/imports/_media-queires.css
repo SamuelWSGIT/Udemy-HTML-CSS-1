@@ -1,0 +1,12 @@
+@media (max-width: 800px) {
+  .row {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .col {
+    width: 90%;
+  }
+  ul.social {
+    margin-left: 0;
+  }
+}
